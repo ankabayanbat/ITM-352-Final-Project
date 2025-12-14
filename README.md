@@ -11,10 +11,10 @@ Open your computer's terminal (or Command Prompt) and run these two commands to 
 
 
 # 1. Downloads the project files
-git clone https://github.com/ankabayanbat/ITM352_F25_repo
+git clone https://github.com/ankabayanbat/ITM-352-Final-Project
 
 # 2. Move into the folder where the program is located
-cd ITM352_F25_repo/FinalProject
+cd ITM-352-Final-Project
 Step 2: Install Necessary Tools
 Now, install all the required Python libraries (like Pandas and Selenium) in a clean environment.
 
